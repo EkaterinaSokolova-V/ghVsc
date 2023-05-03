@@ -1,7 +1,9 @@
-console.log("hello");
+
 let a = 0;
 let b = 1;
 
-a + b;
+let r = a + b;
 
 console.log(a + b);
+
+console.log(r);
