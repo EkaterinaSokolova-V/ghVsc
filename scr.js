@@ -15,3 +15,5 @@ function fun(a,b){
 fun(2,3);
 
 fun(2,3);
+
+fun(4,6);
