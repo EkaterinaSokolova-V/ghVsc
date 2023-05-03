@@ -3,3 +3,5 @@ let a = 0;
 let b = 1;
 
 a + b;
+
+console.log(a + b);
